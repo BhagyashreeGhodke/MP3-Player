@@ -14,7 +14,7 @@ root.set_theme("radiance")
 
 
 root.minsize(500,500)
-root.iconbitmap(r'C:\Users\AnyOne\Music\songss\lots of Songs\english')
+root.iconbitmap(r'D:\\Media\\Downloads\\songs')
 root.resizable(0, 0)
 
 listbox=Listbox(root,selectmode=ACTIVE,width=100,height=20,bg="black",fg="white")
